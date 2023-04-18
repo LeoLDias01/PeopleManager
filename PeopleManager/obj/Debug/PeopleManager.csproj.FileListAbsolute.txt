@@ -1,0 +1,17 @@
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\bin\Debug\PeopleManager.exe.config
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\bin\Debug\PeopleManager.exe
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\bin\Debug\PeopleManager.pdb
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\bin\Debug\Business.dll
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\bin\Debug\Domain.dll
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\bin\Debug\Business.pdb
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\bin\Debug\Domain.pdb
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.csproj.AssemblyReference.cache
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.Properties.Resources.resources
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.Screens.Login.resources
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.csproj.GenerateResource.cache
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.csproj.CoreCompileInputs.cache
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.csproj.CopyComplete
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.exe
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.pdb
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.Screens.Loading.resources
