@@ -15,3 +15,4 @@ C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debu
 C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.exe
 C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.pdb
 C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.Screens.Loading.resources
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.Screens.WorkSpace.resources

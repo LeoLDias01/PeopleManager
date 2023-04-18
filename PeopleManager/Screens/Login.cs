@@ -24,7 +24,6 @@ namespace PeopleManager.Screens
 
 		private void btnSignIn_Click(object sender, EventArgs e)
 		{
-			
 			this.Hide();
 			new Loading().ShowDialog();
 		}

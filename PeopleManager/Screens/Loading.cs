@@ -16,5 +16,11 @@ namespace PeopleManager.Screens
 		{
 			InitializeComponent();
 		}
+
+		private void Loading_Load(object sender, EventArgs e)
+		{
+			this.Visible = false;
+			new WorkSpace().ShowDialog();
+		}
 	}
 }
