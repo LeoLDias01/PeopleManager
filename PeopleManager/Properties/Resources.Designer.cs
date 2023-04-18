@@ -63,6 +63,16 @@ namespace PeopleManager.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _3d_library_folder_20529 {
+            get {
+                object obj = ResourceManager.GetObject("3d_library_folder_20529", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap a2dc9668f2cf170fe3efeb263128b0e7 {
             get {
                 object obj = ResourceManager.GetObject("a2dc9668f2cf170fe3efeb263128b0e7", resourceCulture);
@@ -73,9 +83,49 @@ namespace PeopleManager.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bootloader_users_person_people_6080 {
+            get {
+                object obj = ResourceManager.GetObject("bootloader_users_person_people_6080", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap briefcase_22176 {
+            get {
+                object obj = ResourceManager.GetObject("briefcase_22176", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap briefcase_22176___32x32 {
+            get {
+                object obj = ResourceManager.GetObject("briefcase_22176 - 32x32", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap checked_accept_accepted_check_mark_accept_done_icon_181529 {
             get {
                 object obj = ResourceManager.GetObject("checked_accept_accepted_check_mark_accept_done_icon_181529", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap emergency_309725_1280 {
+            get {
+                object obj = ResourceManager.GetObject("emergency-309725_1280", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -96,6 +146,16 @@ namespace PeopleManager.Properties {
         internal static System.Drawing.Bitmap Full_Logo {
             get {
                 object obj = ResourceManager.GetObject("Full Logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_sair_22 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-sair-22", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,9 +213,59 @@ namespace PeopleManager.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap preferencesdesktoptheme_93638 {
+            get {
+                object obj = ResourceManager.GetObject("preferencesdesktoptheme_93638", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Save_Disquete_Gray {
             get {
                 object obj = ResourceManager.GetObject("Save Disquete Gray", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap schedule256_24832 {
+            get {
+                object obj = ResourceManager.GetObject("schedule256_24832", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Search_find_magnifier_248 {
+            get {
+                object obj = ResourceManager.GetObject("Search_find_magnifier_248", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap search_locate_find_icon_icons_com_67287 {
+            get {
+                object obj = ResourceManager.GetObject("search_locate_find_icon-icons.com_67287", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap travel_journey_icon_icons_com_55995 {
+            get {
+                object obj = ResourceManager.GetObject("travel_journey_icon-icons.com_55995", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -138,5 +138,38 @@
   <ItemGroup>
     <None Include="Resources\Save Disquete Gray.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bootloader_users_person_people_6080.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3d_library_folder_20529.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\briefcase_22176 - 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\schedule256_24832.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\briefcase_22176.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preferencesdesktoptheme_93638.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\travel_journey_icon-icons.com_55995.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emergency-309725_1280.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sair-22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_locate_find_icon-icons.com_67287.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_find_magnifier_248.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
