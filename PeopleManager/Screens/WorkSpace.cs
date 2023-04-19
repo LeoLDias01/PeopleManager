@@ -43,5 +43,10 @@ namespace PeopleManager.Screens
 		{
 			Application.Exit();
 		}
+
+		private void groupBox1_Enter(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
