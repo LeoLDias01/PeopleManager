@@ -17,36 +17,29 @@ namespace PeopleManager.Screens
 			InitializeComponent();
 		}
 
-		private void tsbDash_Click(object sender, EventArgs e)
-		{
-			FieldsActivation(notepad: true, appointment: false, dashboard: true);
-		}
 
-		private void FieldsActivation(bool notepad, bool appointment, bool dashboard)
-		{
-			pnlNotepad.Visible = notepad;
-			pnlAppointment.Visible = appointment;
-			tlpDashboard.Visible = dashboard;
-		}
-
-		private void tspAppointment_Click(object sender, EventArgs e)
-		{
-			FieldsActivation(notepad: false, appointment: true, dashboard: false);
-		}
 
 		private void WorkSpace_Load(object sender, EventArgs e)
 		{
-			FieldsActivation(notepad: true, appointment: false, dashboard: true);
+			
 		}
 
-		private void btnExit_Click(object sender, EventArgs e)
-		{
-			Application.Exit();
-		}
+
 
 		private void groupBox1_Enter(object sender, EventArgs e)
 		{
 
+		}
+
+		private void btnExit_Click_1(object sender, EventArgs e)
+		{
+			if(MessageBox.Show("Deseja encerrar toda a aplicação?", "AVISO!", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+				Application.Exit();
+			else
+			{
+				this.Close();
+				new Login().ShowDialog();
+			}
 		}
 	}
 }

@@ -183,6 +183,16 @@ namespace PeopleManager.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap logout256_249271 {
+            get {
+                object obj = ResourceManager.GetObject("logout256_249271", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap LogoWhite {
             get {
                 object obj = ResourceManager.GetObject("LogoWhite", resourceCulture);
