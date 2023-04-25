@@ -16,3 +16,5 @@ C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debu
 C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.pdb
 C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.Screens.Loading.resources
 C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.Screens.WorkSpace.resources
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.Company.resources
+C:\Users\leonardoleal.CONCILIG\source\repos\PeopleManager\PeopleManager\obj\Debug\PeopleManager.Screens.SubTypes.resources

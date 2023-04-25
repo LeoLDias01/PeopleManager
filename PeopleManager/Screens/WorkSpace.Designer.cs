@@ -101,7 +101,7 @@
 			this.button5 = new System.Windows.Forms.Button();
 			this.button4 = new System.Windows.Forms.Button();
 			this.button3 = new System.Windows.Forms.Button();
-			this.button2 = new System.Windows.Forms.Button();
+			this.btnCompany = new System.Windows.Forms.Button();
 			this.button1 = new System.Windows.Forms.Button();
 			this.pictureBox1 = new System.Windows.Forms.PictureBox();
 			this.tableLayoutPanel1.SuspendLayout();
@@ -145,7 +145,7 @@
 			this.tableLayoutPanel1.Controls.Add(this.button5, 0, 6);
 			this.tableLayoutPanel1.Controls.Add(this.button4, 0, 5);
 			this.tableLayoutPanel1.Controls.Add(this.button3, 0, 4);
-			this.tableLayoutPanel1.Controls.Add(this.button2, 0, 3);
+			this.tableLayoutPanel1.Controls.Add(this.btnCompany, 0, 3);
 			this.tableLayoutPanel1.Controls.Add(this.button1, 0, 2);
 			this.tableLayoutPanel1.Controls.Add(this.panel10, 0, 1);
 			this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Left;
@@ -218,6 +218,7 @@
 			this.panel3.Controls.Add(this.pictureBox5);
 			this.panel3.Controls.Add(this.label7);
 			this.panel3.Controls.Add(this.label8);
+			this.panel3.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.panel3.Location = new System.Drawing.Point(3, 67);
 			this.panel3.Name = "panel3";
@@ -254,6 +255,7 @@
 			this.panel7.Controls.Add(this.pictureBox9);
 			this.panel7.Controls.Add(this.label12);
 			this.panel7.Controls.Add(this.label13);
+			this.panel7.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.panel7.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.panel7.Location = new System.Drawing.Point(723, 3);
 			this.panel7.Name = "panel7";
@@ -290,6 +292,7 @@
 			this.panel2.Controls.Add(this.pictureBox3);
 			this.panel2.Controls.Add(this.label5);
 			this.panel2.Controls.Add(this.label6);
+			this.panel2.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.panel2.Location = new System.Drawing.Point(243, 3);
 			this.panel2.Name = "panel2";
@@ -326,6 +329,7 @@
 			this.panel1.Controls.Add(this.pictureBox6);
 			this.panel1.Controls.Add(this.label4);
 			this.panel1.Controls.Add(this.label3);
+			this.panel1.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.panel1.Location = new System.Drawing.Point(3, 3);
 			this.panel1.Name = "panel1";
@@ -362,6 +366,7 @@
 			this.panel13.Controls.Add(this.pictureBox10);
 			this.panel13.Controls.Add(this.label22);
 			this.panel13.Controls.Add(this.label23);
+			this.panel13.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.panel13.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.panel13.Location = new System.Drawing.Point(723, 67);
 			this.panel13.Name = "panel13";
@@ -398,6 +403,7 @@
 			this.panel8.Controls.Add(this.pictureBox8);
 			this.panel8.Controls.Add(this.label14);
 			this.panel8.Controls.Add(this.label15);
+			this.panel8.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.panel8.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.panel8.Location = new System.Drawing.Point(483, 67);
 			this.panel8.Name = "panel8";
@@ -434,6 +440,7 @@
 			this.panel12.Controls.Add(this.pictureBox4);
 			this.panel12.Controls.Add(this.label19);
 			this.panel12.Controls.Add(this.label21);
+			this.panel12.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.panel12.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.panel12.Location = new System.Drawing.Point(243, 67);
 			this.panel12.Name = "panel12";
@@ -470,6 +477,7 @@
 			this.panel6.Controls.Add(this.pictureBox7);
 			this.panel6.Controls.Add(this.label10);
 			this.panel6.Controls.Add(this.label11);
+			this.panel6.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.panel6.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.panel6.Location = new System.Drawing.Point(483, 3);
 			this.panel6.Name = "panel6";
@@ -1053,26 +1061,28 @@
 			this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
 			this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
 			this.button3.UseVisualStyleBackColor = false;
+			this.button3.Click += new System.EventHandler(this.button3_Click);
 			// 
-			// button2
+			// btnCompany
 			// 
-			this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(89)))), ((int)(((byte)(108)))));
-			this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button2.FlatAppearance.BorderSize = 0;
-			this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-			this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-			this.button2.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button2.ForeColor = System.Drawing.Color.White;
-			this.button2.Image = global::PeopleManager.Properties.Resources.office_building_company_icon_231040;
-			this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-			this.button2.Location = new System.Drawing.Point(3, 443);
-			this.button2.Name = "button2";
-			this.button2.Size = new System.Drawing.Size(189, 51);
-			this.button2.TabIndex = 2;
-			this.button2.Text = "Empresas";
-			this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-			this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-			this.button2.UseVisualStyleBackColor = false;
+			this.btnCompany.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(89)))), ((int)(((byte)(108)))));
+			this.btnCompany.Cursor = System.Windows.Forms.Cursors.Hand;
+			this.btnCompany.FlatAppearance.BorderSize = 0;
+			this.btnCompany.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+			this.btnCompany.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+			this.btnCompany.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.btnCompany.ForeColor = System.Drawing.Color.White;
+			this.btnCompany.Image = global::PeopleManager.Properties.Resources.office_building_company_icon_231040;
+			this.btnCompany.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+			this.btnCompany.Location = new System.Drawing.Point(3, 443);
+			this.btnCompany.Name = "btnCompany";
+			this.btnCompany.Size = new System.Drawing.Size(189, 51);
+			this.btnCompany.TabIndex = 2;
+			this.btnCompany.Text = "Empresas";
+			this.btnCompany.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+			this.btnCompany.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+			this.btnCompany.UseVisualStyleBackColor = false;
+			this.btnCompany.Click += new System.EventHandler(this.btnCompany_Click);
 			// 
 			// button1
 			// 
@@ -1174,7 +1184,7 @@
 		private System.Windows.Forms.TableLayoutPanel tlpDashboard;
 		private System.Windows.Forms.Button button4;
 		private System.Windows.Forms.Button button3;
-		private System.Windows.Forms.Button button2;
+		private System.Windows.Forms.Button btnCompany;
 		private System.Windows.Forms.Button button1;
 		private System.Windows.Forms.TextBox txtNotepad;
 		private System.Windows.Forms.Label lblNOtepadTitle;

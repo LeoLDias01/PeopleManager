@@ -41,5 +41,15 @@ namespace PeopleManager.Screens
 				new Login().ShowDialog();
 			}
 		}
+
+		private void button3_Click(object sender, EventArgs e)
+		{
+
+		}
+
+		private void btnCompany_Click(object sender, EventArgs e)
+		{
+			new Company().ShowDialog();
+		}
 	}
 }

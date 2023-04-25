@@ -66,6 +66,12 @@
     <Compile Include="Screens\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
+    <Compile Include="Screens\SubTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\SubTypes.Designer.cs">
+      <DependentUpon>SubTypes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Screens\WorkSpace.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,6 +96,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Screens\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\SubTypes.resx">
+      <DependentUpon>SubTypes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Screens\WorkSpace.resx">
       <DependentUpon>WorkSpace.cs</DependentUpon>
