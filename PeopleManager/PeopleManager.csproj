@@ -46,10 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Company.cs">
+    <Compile Include="Screens\Company.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Company.Designer.cs">
+    <Compile Include="Screens\Company.Designer.cs">
       <DependentUpon>Company.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -72,7 +72,7 @@
     <Compile Include="Screens\WorkSpace.Designer.cs">
       <DependentUpon>WorkSpace.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Company.resx">
+    <EmbeddedResource Include="Screens\Company.resx">
       <DependentUpon>Company.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -185,6 +185,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\logout256_249271.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_37110.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-158491_640.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

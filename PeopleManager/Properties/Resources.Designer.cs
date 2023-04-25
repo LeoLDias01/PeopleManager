@@ -83,6 +83,16 @@ namespace PeopleManager.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap back_158491_640 {
+            get {
+                object obj = ResourceManager.GetObject("back-158491_640", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bootloader_users_person_people_6080 {
             get {
                 object obj = ResourceManager.GetObject("bootloader_users_person_people_6080", resourceCulture);
@@ -236,6 +246,16 @@ namespace PeopleManager.Properties {
         internal static System.Drawing.Bitmap preferencesdesktoptheme_93638 {
             get {
                 object obj = ResourceManager.GetObject("preferencesdesktoptheme_93638", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Save_37110 {
+            get {
+                object obj = ResourceManager.GetObject("Save_37110", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

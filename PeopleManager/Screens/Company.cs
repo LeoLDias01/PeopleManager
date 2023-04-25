@@ -16,5 +16,10 @@ namespace PeopleManager
 		{
 			InitializeComponent();
 		}
+
+		private void Company_Load(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
